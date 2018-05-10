@@ -111,7 +111,6 @@
 - Alice can write a message onto a bit of paper, but she needs to pass it to Eve first.
 - Eve can then pass the message onto Bob,  so Bob can read the message.
 - Can you see how this system is insecure? Eve is easily able to read the message before passing it onto Bob.
-- Test
 ** Try It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
